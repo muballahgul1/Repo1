@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F4A3-09FB
+
+ Directory of C:\Users\gul_l\Desktop\MyProject
+
+12/21/2020  03:21 PM    <DIR>          .
+12/21/2020  03:21 PM    <DIR>          ..
+12/21/2020  03:21 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  335,689,457,664 bytes free
